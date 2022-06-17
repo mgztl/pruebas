@@ -1,31 +1,31 @@
 # Site settings
-title: GM Zettelkasten # site title
+title: Lucas Vittor Blog # site title
 description: >- # site description
-  The place where I share my learning notes.
-lang: es-MX # default lang
-timezone: America/Mexico_City # set your timezone: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  The place where I share my learnings.
+lang: en-US # default lang
+timezone: America/Argentina/Buenos_Aires # set your timezone: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/mgztl/mgztl.github.io # site repo [optional]
-mode: light # default theme "dark" | "light"
+repo: https://github.com/lvvittor/lvvittor.github.io # site repo [optional]
+mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Martínez García # author name
+  name: Lucas Vittor # author name
   bio: >- # tell to the world
-    The place where I share my learning notes.
-  username: mgztl # general username
-  github: mgztl # github username
-  # twitter:  # twitter username
-  # facebook: facebook_username # facebook username
-  # email: # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+    The place where I share my learnings.
+  username: lvvittor # general username
+  github: lvvittor # github username
+  twitter: lvvittor # twitter username
+  facebook: facebook_username # facebook username
+  email: lvvittor@gmail.com # email adress
+  avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
-url: "https://mgztl.github.io/"
+url: "https://www.lucasvittor.com"
 baseurl:
 permalink: /:title/
-# google_analytics:
-# fb_appid:
+google_analytics: UA-213772369-1
+fb_appid:
 
 # Collection setting
 collections:
